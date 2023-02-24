@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gala.
 - 👀 I’m interested in HTML, CSS, PHP, Java, Python.
-- 🌱 I’m currently learning HTML, Java.
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
